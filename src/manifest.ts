@@ -6,6 +6,7 @@ export default defineManifest({
   description: packageData.description,
   version: packageData.version,
   manifest_version: 3,
+  "homepage_url": "https://Fralleee.github.io/disneyplus-fullscreen-persist/",
   icons: {
     16: 'img/logo-16.png',
     32: 'img/logo-32.png',
