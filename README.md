@@ -8,7 +8,7 @@ Enhance your Disney+ viewing experience with **Disney+ Persist Fullscreen**. Mai
 
 ## Installation
 
-To install this extension that's cooler than the other side of the pillow, visit the [Chrome Web Store page](https://chrome.google.com/webstore/detail/disney%20-unblur/epegomjmecdogfefcmadjkbinicbldmb/) and install **Disney+ Persist Fullscreen**.
+To install this extension that's cooler than the other side of the pillow, visit the [Chrome Web Store page](https://chromewebstore.google.com/detail/disney+-fullscreen-persis/cdeoiehojdillbpmlidagnbgcgimdekp?authuser=1&hl=en-GB&pli=1) and install **Disney+ Persist Fullscreen**.
 
 ## Usage
 
